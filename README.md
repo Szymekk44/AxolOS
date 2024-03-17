@@ -1,6 +1,6 @@
 # AxolOS
 The system is created as a tutorial! 
-https://youtube.com/Szymekk
+**https://youtube.com/Szymekk**
 
 ## Part 1
 <p>
@@ -10,5 +10,5 @@ https://youtube.com/Szymekk
   </picture>
 </p>
   <br>
-https://www.youtube.com/watch?v=aohtSDgARWw <br>
-https://github.com/SzymekkYT/AxolOS/tree/Part1
+<b>YT: https://www.youtube.com/watch?v=aohtSDgARWw </b><br>
+<b>Github: https://github.com/SzymekkYT/AxolOS/tree/Part1</b>
