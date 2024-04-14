@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "e/2fmx0UBiqlIVmhZ60Ho8v7yLRhfjk+hsjHbM9YDVd5T+mXbUFZQKqZOcMqAvzOFrtMmzXO7D1z15OYgGDS9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Szymko\\source\\repos\\AxolOS\\AxolOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Szymko\\.nuget\\packages\\cosmos.build\\0.1.0-localbuild20240409065327\\cosmos.build.0.1.0-localbuild20240409065327.nupkg.sha512",
+    "C:\\Users\\Szymko\\.nuget\\packages\\cosmos.common\\0.1.0-localbuild20240409065333\\cosmos.common.0.1.0-localbuild20240409065333.nupkg.sha512",
+    "C:\\Users\\Szymko\\.nuget\\packages\\cosmos.core\\0.1.0-localbuild20240409065333\\cosmos.core.0.1.0-localbuild20240409065333.nupkg.sha512",
+    "C:\\Users\\Szymko\\.nuget\\packages\\cosmos.debug.kernel\\0.1.0-localbuild20240409065333\\cosmos.debug.kernel.0.1.0-localbuild20240409065333.nupkg.sha512",
+    "C:\\Users\\Szymko\\.nuget\\packages\\cosmos.hal2\\0.1.0-localbuild20240409065333\\cosmos.hal2.0.1.0-localbuild20240409065333.nupkg.sha512",
+    "C:\\Users\\Szymko\\.nuget\\packages\\cosmos.plugs\\0.1.0-localbuild20240409065333\\cosmos.plugs.0.1.0-localbuild20240409065333.nupkg.sha512",
+    "C:\\Users\\Szymko\\.nuget\\packages\\cosmos.system2\\0.1.0-localbuild20240409065333\\cosmos.system2.0.1.0-localbuild20240409065333.nupkg.sha512",
+    "C:\\Users\\Szymko\\.nuget\\packages\\il2cpu.api\\0.1.0-localbuild20240409065333\\il2cpu.api.0.1.0-localbuild20240409065333.nupkg.sha512"
+  ],
+  "logs": []
+}

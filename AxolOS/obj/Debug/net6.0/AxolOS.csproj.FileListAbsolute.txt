@@ -1,0 +1,12 @@
+C:\Users\Szymko\source\repos\AxolOS\bin\Debug\net6.0\AxolOS.deps.json
+C:\Users\Szymko\source\repos\AxolOS\bin\Debug\net6.0\AxolOS.dll
+C:\Users\Szymko\source\repos\AxolOS\bin\Debug\net6.0\AxolOS.pdb
+C:\Users\Szymko\source\repos\AxolOS\obj\Debug\net6.0\AxolOS.csproj.AssemblyReference.cache
+C:\Users\Szymko\source\repos\AxolOS\obj\Debug\net6.0\AxolOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymko\source\repos\AxolOS\obj\Debug\net6.0\AxolOS.AssemblyInfoInputs.cache
+C:\Users\Szymko\source\repos\AxolOS\obj\Debug\net6.0\AxolOS.AssemblyInfo.cs
+C:\Users\Szymko\source\repos\AxolOS\obj\Debug\net6.0\AxolOS.csproj.CoreCompileInputs.cache
+C:\Users\Szymko\source\repos\AxolOS\obj\Debug\net6.0\AxolOS.dll
+C:\Users\Szymko\source\repos\AxolOS\obj\Debug\net6.0\refint\AxolOS.dll
+C:\Users\Szymko\source\repos\AxolOS\obj\Debug\net6.0\AxolOS.pdb
+C:\Users\Szymko\source\repos\AxolOS\obj\Debug\net6.0\ref\AxolOS.dll
