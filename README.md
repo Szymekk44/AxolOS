@@ -5,7 +5,7 @@ The system is created as a tutorial!
 ## Part 1
 <p>
  <picture>
-     <source srcset="https://raw.githubusercontent.com/SzymekkYT/AxolOS/main/Art/AxolOS1.png">
+     <source srcset="Art/AxolOS1.png">
     <img width=49% src="">
   </picture>
 </p>
