@@ -1,6 +1,6 @@
 # AxolOS
-The system is created as a tutorial! 
-**https://youtube.com/Szymekk**
+This system is created as a tutorial! 
+Watch it here: **https://youtube.com/Szymekk**
 
 ## Part 1
 <p>
