@@ -33,7 +33,7 @@ namespace AxolOS.System
 						Kernel.fs.Disks[0].DeletePartition(0);
 					}
 					Kernel.fs.Disks[0].Clear();
-					Kernel.fs.Disks[0].CreatePartition(Kernel.fs.Disks[0].Size / (1024 * 1024));
+					Kernel.fs.Disks[0].CreatePartition((int)Kernel.fs.Disks[0].Size / (1024 * 1024));
 					Kernel.fs.Disks[0].FormatPartition(0, "FAT32", true);
 					WriteMessage.WriteOK("Success!");
 					WriteMessage.WriteWarn("AxolOS will reboot in 3 seconds!");
